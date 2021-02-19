@@ -1,5 +1,5 @@
-def last10(a, b, c, d, e):
-    if e == 10:
+def last10(a, b, c, d, e, f):
+    if f == 10:
         return True
     else:
         return False
