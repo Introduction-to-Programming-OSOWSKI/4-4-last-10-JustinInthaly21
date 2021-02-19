@@ -1,7 +1,7 @@
-def last10(a):
+def list10(a):
     if a[-1] == 10:
         return True
     else:
         return False
 
-print(last10([0, 0, 0, 0, 10]))
+print(list10([0, 0, 0, 0, 0, 0]))
